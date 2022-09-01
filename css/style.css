@@ -48,9 +48,9 @@ body {
 #container .container-link header .image {
     max-width: 150px;
     height: 150px;
-    background-color: rgb(38, 64, 198);
+    background-color: rgb(66, 99, 235);
     border: 5px solid rgb(237, 242, 255);
-    outline: 5px solid rgb(181, 51, 51);
+    outline: 5px solid rgb(66, 99, 235);
     margin: 60px auto 24px auto;
     border-radius: 50%;
 }
@@ -93,7 +93,7 @@ body {
 }
 
 #container #content-links .item-link:hover {
-    box-shadow: #4805c554 0px 0px 4px 4px;
+    box-shadow: rgba(66, 100, 235, 0.392) 0px 0px 0px 4px;
 }
 
 #container footer p {
