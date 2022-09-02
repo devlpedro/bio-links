@@ -1,10 +1,3 @@
-/*
-function loading() {
-    document.querySelector(".skeleton").style.display = "none"
-}
-*/
-
-
 var i = setInterval(function () {
     
     clearInterval(i);
