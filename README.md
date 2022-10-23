@@ -1,7 +1,7 @@
 <h1 align="center"> Página de links para o Instagram </h1>
 
 <p align="center">
-A DocPay é um projeto desenvolvido com o intuito de estudos <strong>HTML, estilos, semânticas</strong> | <a style="color: #C2410C" href="https://docpay.vercel.app/">Disponível agora.</a>
+A DocPay é um projeto desenvolvido com o intuito de estudos <strong>HTML, estilos, semânticas</strong> | <a style="color: #C2410C" href="https://serene-semolina-d61582.netlify.app/">Disponível agora.</a>
 
 </p>
 
